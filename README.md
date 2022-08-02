@@ -99,11 +99,3 @@ It was hard to find Movies and Songs datasets that reflected different emotions 
 ## Linkedin- https://www.linkedin.com/in/mehashukla/
 ## Github - https://github.com/MehaShukla
 
-## INSTALLATION-
-1. Clone App - git clone https://github.com/MehaShukla/Peacify .
-2. Open the Folder in a terminal - Visual Studio preferred , if nothing installed yet.
-3. Install the dependencies -Run pip install -r requirements. txt (Python 2), or pip3 install -r requirements. txt (Python 3).
-4. Open app.py and Execute the program.
-5. You will get a URL somewhat of this type- http://127.0.0.1:5000/
-6. Copy and Paste in a browser.
-Voila!! Your Application Starts Running.
